@@ -10,10 +10,10 @@ The project implements RL agents that learn optimal power dispatch strategies fo
 
 ### Core Implementation
 
-**EnvDispatch_PPO.ipynb** (3 versions)
+**main_summation.ipynb** and **main_replacement.ipynb**
 - Contains the key classes and implementation for the RL environment and PPO agent
-- Three versions included to accommodate different hyperparameters run on different GPUs for computational efficiency
 - Start here to understand the main algorithm and environment setup
+- One notebook for each of the different reward methods for which preliminary experiments have been run
 
 ### Supporting Files
 
